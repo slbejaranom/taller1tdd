@@ -6,5 +6,7 @@ Se tomó la fuente del código de clase de acá https://github.com/apdaza/python
 
 Desarrollado por Sebastián Bejarano 20221495002
 
-##Para ejecutar las pruebas por favor corra
+#Para ejecutar las pruebas por favor corra
 mvn clean verify
+
+En la ubicación del pom.xml
